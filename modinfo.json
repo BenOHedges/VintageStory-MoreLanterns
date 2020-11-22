@@ -1,0 +1,10 @@
+{
+  "Type": 1,
+  "Name": "More Lanterns",
+  "Version": "1.0.0",
+  "Description": "Adds more varients of lanterns",
+  "ModID": "moreLanterns",
+  "Authors": [
+    "RealmReaver"
+  ],
+}
